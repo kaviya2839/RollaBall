@@ -1,4 +1,4 @@
-# RollaBall
+# EX-02 RollaBall
 
 ## Aim:
 To Roll a Ball using C# program in unity .
